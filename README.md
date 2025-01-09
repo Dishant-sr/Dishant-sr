@@ -1,16 +1,14 @@
-## Hi there 👋
+## I AM DISHANT 🦇
 
-<!--
-**Dishant-sr/Dishant-sr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## about me
 
-Here are some ideas to get you started:
+- 🔭 currently building skills in java, web development, and writing.
+- 🌱 Learning and growing in **C programming** for a strong foundation.  
+- 💡 Interested in stock trading, problem-solving, and contributing to open source projects.  
+- 🎨 Crafting personalized projects that reflect innovation and creativity.
+- 📚 When I'm not coding, you'll find me exploring worlds through books.
+  
+ #### 📫 Let's Connect:  
+- Email: dishantsinghrathore786@gmail.com
+    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
