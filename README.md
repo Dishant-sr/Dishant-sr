@@ -16,12 +16,25 @@ that i wrote on the topic "Web3.o and blockchain, and how they are the backbone 
 - **Programming Languages**:  
 
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Frameworks & Libraries
+
+![SDL](https://img.shields.io/badge/SDL-FF6F00?style=for-the-badge&logo=sdl&logoColor=white)
+
+**Tools & Platforms**:  
+
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
   
+  ### Creative Tools
+
+- **Blender**:  
+  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
   
 
 
-  
+
  #### 📫 Let's Connect:  
 - Email: dishantsinghrathore786@gmail.com
+  
     
 
