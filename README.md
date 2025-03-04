@@ -28,8 +28,13 @@ that i wrote on the topic "Web3.o and blockchain, and how they are the backbone 
 ### Creative Tools
 
 - **Blender**:  
-  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
-  
+  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+### GitHub Stats
+
+![Dishant-sr's Stats](https://github-readme-stats.vercel.app/api?username=Dishant-sr&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![Dishant-sr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dishant-sr&theme=dracula&hide_border=true)
+![Dishant-sr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishant-sr&theme=dracula&show_icons=true&hide_border=true&layout=compact) 
 
 
 
