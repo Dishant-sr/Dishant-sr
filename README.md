@@ -32,8 +32,8 @@ that i wrote on the topic "Web3.o and blockchain, and how they are the backbone 
 
 ### GitHub Stats
 
-![Dishant-sr's Stats](https://github-readme-stats.vercel.app/api?username=Dishant-sr&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![Dishant-sr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dishant-sr&theme=dracula&hide_border=true)
+![Dishant-sr's Stats](https://github-readme-stats.vercel.app/api?username=Dishant-sr&theme=dracula&show_icons=true&hide_border=true&count_private=true) ![Dishant-sr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dishant-sr&theme=dracula&hide_border=true)
+
 
 
  #### 📫 Let's Connect:  
