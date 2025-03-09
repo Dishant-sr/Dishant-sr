@@ -37,11 +37,7 @@ that i wrote on the topic "Web3.o and blockchain, and how they are the backbone 
 
  #### 📫 Let's Connect:  
 - Email: dishantsinghrathore786@gmail.com
-- Feel free to reach out to me on my social media profiles:
-
-<a href="https://www.instagram.com/dishant_613" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" width="30"/>
-</a>
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dishant_613)
 
     
 
