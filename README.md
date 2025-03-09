@@ -39,9 +39,10 @@
 
 
  #### 📫 Let's Connect:  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dishant_613)
 - Email: dishantsinghrathore786@gmail.com 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dishant_613)
+
 
     
 
