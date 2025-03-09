@@ -32,14 +32,16 @@
 
 ### GitHub Stats
 
-![Dishant-sr's Stats](https://github-readme-stats.vercel.app/api?username=Dishant-sr&theme=dracula&show_icons=true&hide_border=true&count_private=true) ![Dishant-sr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dishant-sr&theme=dracula&hide_border=true)
+![Dishant-sr's Stats](https://github-readme-stats.vercel.app/api?username=Dishant-sr&theme=dracula&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600&random=123)
+
+![Dishant-sr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dishant-sr&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&random=123)
 
 
 
  #### 📫 Let's Connect:  
 - Email: dishantsinghrathore786@gmail.com 
-- 
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dishant_613)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dishant_613)
 
     
 
