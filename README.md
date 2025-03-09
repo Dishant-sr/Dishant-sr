@@ -27,8 +27,7 @@ that i wrote on the topic "Web3.o and blockchain, and how they are the backbone 
   
 ### Creative Tools
 
-- **Blender**:  
-  ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ### GitHub Stats
 
@@ -40,4 +39,5 @@ that i wrote on the topic "Web3.o and blockchain, and how they are the backbone 
 - Email: dishantsinghrathore786@gmail.com
   
     
+
 
