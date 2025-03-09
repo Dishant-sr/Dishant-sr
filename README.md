@@ -26,11 +26,11 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Creative Tools
+### Creative Tools :
 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-### GitHub Stats
+### GitHub Stats :
 
 ![Dishant-sr's Stats](https://github-readme-stats.vercel.app/api?username=Dishant-sr&theme=dracula&show_icons=true&hide_border=true&count_private=true&cache_seconds=3600&random=123)
 
